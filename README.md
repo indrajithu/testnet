@@ -1,3 +1,5 @@
 # testnet
 own testnets
-devnets
+ discord-role
+own projects 
+devnets main
